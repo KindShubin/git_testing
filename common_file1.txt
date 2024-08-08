@@ -1,5 +1,7 @@
 1 - main branch
 
+merge branch + conflict -1
+
 main branch + conflict 1
 
 rebase branch + conflict - 1
