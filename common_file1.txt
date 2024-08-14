@@ -8,4 +8,7 @@ rebase branch + conflict - 1
 
 some changes in main
 
+
+some changes in rebase_remote_with_condlict
+
 some changes in main #2
