@@ -5,3 +5,5 @@ merge branch + conflict -1
 main branch + conflict 1
 
 rebase branch + conflict - 1
+
+some changes in main
